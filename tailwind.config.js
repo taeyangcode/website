@@ -52,6 +52,9 @@ export default {
 				},
 			},
 		},
+		fontFamily: {
+			sans: ["DM Serif Display"],
+		},
 	},
 	plugins: [require("tailwindcss-animate")],
 };
